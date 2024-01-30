@@ -23,7 +23,7 @@ Mutation is applied with a low probability (mutation rate = 0.01) for each bit i
 ## 1.3 Deceptive Landscape Plotting
 ![Alt](https://github.com/EddieSheehy/AI-Assignment1/blob/main/partaPhotos/1.3_photo.png)
 
-# 3. Description of Results
+# Description of Results
 
 ## 1.1 One-Max Problem
 The genetic algorithm quickly converges to the optimal solution, which is a binary string with all '1's. The average fitness increases steadily over generations, demonstrating the algorithm's effectiveness in a simple search landscape.
