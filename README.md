@@ -14,4 +14,4 @@ We perform one-point crossover, where two parents are selected, and a random cro
 Mutation is applied with a low probability (mutation rate = 0.01) for each bit in an individual's binary string. If mutation occurs for a bit, it is flipped (from '0' to '1' or from '1' to '0').
 
 # Plots of Performance
-[](https://github.com/EddieSheehy/AI-Assignment1/blob/main/partaPhotos/1.1_photo.png)
+![Alt](https://github.com/EddieSheehy/AI-Assignment1/blob/main/partaPhotos/1.1_photo.png)
