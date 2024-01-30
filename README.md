@@ -22,3 +22,16 @@ Mutation is applied with a low probability (mutation rate = 0.01) for each bit i
 
 ## 1.3 Deceptive Landscape Plotting
 ![Alt](https://github.com/EddieSheehy/AI-Assignment1/blob/main/partaPhotos/1.3_photo.png)
+
+# 3. Description of Results
+
+## 1.1 One-Max Problem
+The genetic algorithm quickly converges to the optimal solution, which is a binary string with all '1's. The average fitness increases steadily over generations, demonstrating the algorithm's effectiveness in a simple search landscape.
+
+## 1.2 Evolving to a Target String
+The algorithm successfully evolves the population to match the target binary string. The average fitness increases over generations as the algorithm finds better solutions, demonstrating its ability to search for specific patterns.
+
+## 1.3 Deceptive Landscape
+The Deceptive Landscape poses a significant challenge to the genetic algorithm. The fitness landscape is deceptive, with the optimal solution not containing any '1's. The algorithm struggles to find the optimal solution, and the average fitness remains high throughout the generations.
+
+In summary, the genetic algorithm successfully addresses the three different optimization problems, showcasing its adaptability to different fitness landscapes. It performs well in simple problems but faces challenges in deceptive landscapes where the optimal solution is not straightforward.
